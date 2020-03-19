@@ -1,8 +1,8 @@
-# Crowd Task Manager
-This system serves as a Crowdsourcing Task managing system, preparing data and assigning available tasks to the appropriate users in crowdsourcing scenarios.
+# Crowd-Assisted Optical Music Recognition
+This system serves as a crowdsourcing task managing system, preparing data and assigning available tasks to the appropriate users in crowdsourcing scenarios.
 
 ## Description
-In its current state, the system is optimized for a crowd-assisted Optical Music Recognition (OMR) pipeline. More specifically, the functionalities of the system can be summarized as follows:
+The system is optimized for a crowd-assisted Optical Music Recognition (OMR) pipeline. More specifically, the functionalities of the system can be summarized as follows:
 1. The system receives PDF files of music scores
 2. A measure detector identifies measures per page and creates a "skeleton" MEI file for each score
 3. Each PDF file is segmented and associated with parts of the generated MEI file
